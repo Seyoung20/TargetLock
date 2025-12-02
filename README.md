@@ -72,38 +72,6 @@ This is a console-based application requiring a Java environment.
 
 *** TARGET LOCK: Personalized Health Tracker ***
 
-Select Your Health Goal: [1] Lose Weight [2] Gain Muscle [3] Reduce Stress
-
-1
-
--- Your current goal is: LOSE WEIGHT --
-
-Choose a Food Category or Item: [A] Fruits [B] Desserts [C] Custom Food
-
-B
-
-Select a Dessert: [1] Yogurt Parfait (180 Cal) [2] Chocolate Cake (400 Cal)
-
-2
-
--- ANALYZING: Chocolate Cake (400 Cal) --
-
-RESULTS:
-
-Nutritional Value: High in Sugar & Saturated Fat.
-
-Safety Level: MODERATE RISK (High calorie/low nutritional density).
-
-Goal Impact (LOSE WEIGHT): ⚠️ GOES AGAINST YOUR GOAL. High calories and low satiety make this a poor choice for fat loss.
-
-RECOMMENDATION:
-
-Reduce Consumption: Limit high-sugar desserts.
-
-Healthier Alternative: Try the Yogurt Parfait (180 Cal) for fewer calories and higher protein.
-
-*** Streak Tracker: 4 Days Consistent! Keep it up! 👏 ***
-
 
 ---
 

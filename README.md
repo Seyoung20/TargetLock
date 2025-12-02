@@ -67,8 +67,6 @@ We thank our CS 211 Instructor, Ms. **Christiana Grace Alib**, for her invaluabl
 
 ### **✨ Project Made By: Looter's Members** 👥
 
-This table uses the **raw image links** and the **Facebook** badge for professional formatting.
-
 <table>
   <tr>
     <td align="center">

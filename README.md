@@ -68,7 +68,7 @@ Looter's Members:
   <tr>
     <td align="center">
       <a href="[Person 1 Facebook URL]">
-        <img src="[Replace with actual Image URL for Alea, Mariane]" width="100px;" alt="Alea, Mariane"/>
+        <img src="https://github.com/Seyoung20/TrialTargetLock/blob/main/img/p3.png" width="100px;" alt="Alea, Mariane"/>
       </a>
       <br />
       <sub><b>Alea, Mariane</b></sub>
@@ -82,8 +82,8 @@ Looter's Members:
       </a>
     </td>
     <td align="center">
-      <a href="https://www.facebook.com/justinjake.baliwag">
-        <img src="/img/p4.png" width="100px;" alt="Baliwag, Justin Jake"/>
+      <a href="[Person 2 Facebook URL]">
+        <img src="https://github.com/Seyoung20/TrialTargetLock/blob/main/img/p1.png" width="100px;" alt="Baliwag, Justin Jake"/>
       </a>
       <br />
       <sub><b>Baliwag, Justin Jake</b></sub>
@@ -98,7 +98,7 @@ Looter's Members:
     </td>
     <td align="center">
       <a href="[Person 3 Facebook URL]">
-        <img src="[Replace with actual Image URL for Ibea, Daniel]" width="100px;" alt="Ibea, Daniel"/>
+        <img src="https://github.com/Seyoung20/TrialTargetLock/blob/main/img/p4.png" width="100px;" alt="Ibea, Daniel"/>
       </a>
       <br />
       <sub><b>Ibea, Daniel</b></sub>
@@ -113,7 +113,7 @@ Looter's Members:
     </td>
     <td align="center">
       <a href="[Person 4 Facebook URL]">
-        <img src="[Replace with actual Image URL for Pabito, Sam Angelo]" width="100px;" alt="Pabito, Sam Angelo"/>
+        <img src="https://github.com/Seyoung20/TrialTargetLock/blob/main/img/p2.png" width="100px;" alt="Pabito, Sam Angelo"/>
       </a>
       <br />
       <sub><b>Pabito, Sam Angelo</b></sub>

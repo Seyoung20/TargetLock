@@ -1,10 +1,9 @@
-
 # 🎯 TrialTargetLock
 **TargetLock** is a **console-based system** that helps users make smarter food choices by aligning what they eat with their personal health goals whether **💪 gaining muscle, 📉 losing weight, 🧘 reducing stress, ✨ improving skin, 😴 enhancing sleep**, and etc.
 
 ---
 
-## **📝 DESCRIPTION/OVERVIEW**
+## **📝 DESCRIPTION/OVERVIEW** 🍏
 
 TargetLock is designed to transform the process of healthy eating into a guided, data-driven experience. The system's core function is to connect a user's **🎯 target goal** directly with the nutritional impact of their food choices.
 
@@ -24,8 +23,8 @@ The application of **Object-Oriented Programming (OOP)** principles ensures a ro
 | :--- | :--- | :--- |
 | **Encapsulation** | 🛡️ | Achieved by bundling data (food name, nutritional values, health goal) and the methods that operate on that data within classes like `FoodItem` and `UserProfile`. **Private** attributes protect internal data, ensuring it is only modified via controlled, **public** methods (getters/setters). |
 | **Inheritance** | 👨🏻‍👩🏻‍👧🏻‍👦🏻 | Used to model specialized behaviors from a general type. A base class, **`HealthGoal`**, is extended by subclasses like **`WeightLossGoal`** or **`MuscleGainGoal`**. These subclasses share common properties but implement specific, distinct goal-checking logic. |
-| **Abstraction** | 🪄 | Focuses on showing essential features while hiding complex implementation details. The **`Analyzer`** class exposes a simple **`getRecommendation()`** method, abstracting away the complex nutritional calculations and safety checks performed internally. |
-| **Polymorphism** | 🎭 | Allows a single interface to be used for different implementations. The core **`Analyzer`** interacts with all goal types through a single **`HealthGoal`** reference. When the **`analyze(food)`** method is called, the correct, goal-specific logic (e.g., how to analyze food for stress reduction vs. muscle gain) is executed. |
+| **Abstraction** | 🪄 | Focusos on showing essential features while hiding complex implementation details. The **`Analyzer`** class exposes a simple **`getRecommendation()`** method, abstracting away the complex nutritional calculations and safety checks performed internally. |
+| **Polymorphism** | 🎭 | Allows a single interface to be used for different implementations. The core **`Analyzer`** interacts with all goal types through a single **`HealthGoal`** reference. When the **`analyze(food)`** method is called, the correct, goal-specific logic is executed. |
 
 ---
 
@@ -58,17 +57,23 @@ This is a console-based application requiring a Java environment.
 ## **🖥️ SAMPLE OUTPUT** 📊
 
 
-## **🧑🏻‍🤝‍🧑🏻AUTHOR AND ACKNOWLEDGEMENT**💫
+## **🧑🏻‍🤝‍🧑🏻AUTHOR AND ACKNOWLEDGEMENT** 💖
 
-✨We would like to express our gratitude to our CS 211 Instructor, Ms. **Christiana Grace Alib**
+### **🙏 Gratitude to Our Instructor**
 
-Looter's Members:
+We thank our CS 211 Instructor, Ms. **Christiana Grace Alib**, for her invaluable mentorship and guidance in applying Object-Oriented Programming principles, which was instrumental in the successful development of **TargetLock**.
+
+---
+
+### **✨ Project Made By: Looter's Members** 👥
+
+This table uses the **raw image links** and the **Facebook** badge for professional formatting.
 
 <table>
   <tr>
     <td align="center">
       <a href="[Person 1 Facebook URL]">
-        <img src="https://github.com/Seyoung20/TrialTargetLock/blob/main/img/p3.png" width="100px;" alt="Alea, Mariane"/>
+        <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p3.png" width="100px;" alt="Alea, Mariane"/>
       </a>
       <br />
       <sub><b>Alea, Mariane</b></sub>
@@ -83,7 +88,7 @@ Looter's Members:
     </td>
     <td align="center">
       <a href="https://www.facebook.com/justinjake.baliwag">
-        <img src="https://github.com/Seyoung20/TrialTargetLock/blob/main/img/p1.png" width="100px;" alt="Baliwag, Justin Jake"/>
+        <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p1.png" width="100px;" alt="Baliwag, Justin Jake"/>
       </a>
       <br />
       <sub><b>Baliwag, Justin Jake</b></sub>
@@ -98,7 +103,7 @@ Looter's Members:
     </td>
     <td align="center">
       <a href="[Person 3 Facebook URL]">
-        <img src="https://github.com/Seyoung20/TrialTargetLock/blob/main/img/p4.png" width="100px;" alt="Ibea, Daniel"/>
+        <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p4.png" width="100px;" alt="Ibea, Daniel"/>
       </a>
       <br />
       <sub><b>Ibea, Daniel</b></sub>
@@ -113,7 +118,7 @@ Looter's Members:
     </td>
     <td align="center">
       <a href="[Person 4 Facebook URL]">
-        <img src="https://github.com/Seyoung20/TrialTargetLock/blob/main/img/p2.png" width="100px;" alt="Pabito, Sam Angelo"/>
+        <img src="https://github.com/Seyoung20/TrialTargetLock/raw/main/img/p2.png" width="100px;" alt="Pabito, Sam Angelo"/>
       </a>
       <br />
       <sub><b>Pabito, Sam Angelo</b></sub>

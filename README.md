@@ -79,30 +79,11 @@ This is a console-based application requiring a Java environment.
 
 ### **🙏 Gratitude to Our Instructor**
 
-We thank our CS 211 Instructor, Ms. **Christiana Grace Alib**, for her invaluable mentorship and guidance in applying Object-Oriented Programming principles, which was instrumental in the successful development of **TargetLock**.
+We thank our CS 211 Instructor, Ms. **Christiana Grace Alib**, for her invaluable mentorship and guidance in applying Object-Oriented Programming principles, which were instrumental in the successful development of **TargetLock**.
 
 ---
 
-### **✨ Project Made By: Looter's Members** 👥
-
-This table uses the **raw image links** and the **Facebook** badge for professional formatting. The names are not links (to prevent the blue color), ensuring a clean, dark-theme appearance.
-
-That's an excellent request. You want the photo itself to be a non-link image, and only the Facebook and Instagram badges underneath it to be clickable.
-
-The reason the photo is currently linked is that it is wrapped in an <a> (anchor) tag that points to the person's Facebook URL.
-
-Here is the corrected code for the table that removes the link from the image, but keeps the crucial blue-line fix on the names:
-
-🖼️ Code with Unlinked Photos
-In this version, I have removed the <a href="...">...</a> tags surrounding the <img ...> for each member's photo. The photo will now display without being a link.
-
-I kept the <span> with the style for the names to ensure the blue lines are removed.
-
-HTML
-
 ### ✨ Project Made By: Looter's Members 👥
-
-This table uses the **raw image links** and the **Facebook** badge for professional formatting. The names are not links (to prevent the blue color), ensuring a clean, dark-theme appearance.
 
 <table>
   <tr>

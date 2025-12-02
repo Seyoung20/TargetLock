@@ -104,7 +104,8 @@ HTML
 
 This table uses the **raw image links** and the **Facebook** badge for professional formatting. The names are not links (to prevent the blue color), ensuring a clean, dark-theme appearance.
 
-<tr>
+<table>
+  <tr>
     <td align="center">
       <a href="[facebook url for Alea, Mariane]">
         <img src="https://github.com/Seyoung20.png" width="100px;" alt="Alea, Mariane GitHub Profile Image"/>
@@ -137,6 +138,7 @@ This table uses the **raw image links** and the **Facebook** badge for professio
       </a>
       <br />
     </td>
+
     <td align="center">
       <a href="[facebook url for Ibea, Daniel]">
         <img src="https://via.placeholder.com/100/28a745/ffffff?text=DI" width="100px;" alt="Ibea, Daniel Profile Image"/>
@@ -153,6 +155,7 @@ This table uses the **raw image links** and the **Facebook** badge for professio
       </a>
       <br />
     </td>
+
     <td align="center">
       <a href="[facebook url for Pabito, Sam Angelo]">
         <img src="https://via.placeholder.com/100/ffc107/000000?text=SAP" width="100px;" alt="Pabito, Sam Angelo Profile Image"/>

@@ -129,11 +129,11 @@ This table uses the **raw image links** and the **Facebook** badge for professio
       <br />
       <sub><b>Baliwag, Justin Jake</b></sub>
       <br />
-      <a href="[GitHub url for Baliwag, Justin Jake]">
+      <a href="https://www.facebook.com/justinjake.baliwag">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="GitHub"/>
       </a>
       <br />
-      <a href="[Instagram url for Baliwag, Justin Jake]">
+      <a href="https://www.instagram.com/4sdfgh.jj/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
       </a>
       <br />
@@ -172,4 +172,5 @@ This table uses the **raw image links** and the **Facebook** badge for professio
     </td>
   </tr>
 </table>
+
 

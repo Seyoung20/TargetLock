@@ -112,7 +112,7 @@ We would like to express our sincere gratitude to our CS 211 instructor, **💗`
   <tr>
     <td align="center">
       <a href="https://www.facebook.com/atarahjrzi">
-        <img src="/img/mayan" width="100px;" alt="Alea, Mariane GitHub Profile Image"/>
+        <img src="/img/mayan.png" width="100px;" alt="Alea, Mariane GitHub Profile Image"/>
       </a>
       <br />
       <sub><b>Alea, Mariane</b></sub>

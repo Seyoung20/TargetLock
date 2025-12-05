@@ -70,6 +70,33 @@ This is a console-based application requiring a Java environment.
 ---
 
 ## **🖥️ SAMPLE OUTPUT** 📊
+<div align="center">
+  <label for="dropdown1">Lose Weight</label>
+  <select id="dropdown1">
+    <option value="img1"><img src="/img/1-1.png" width="50px" alt="Image 1" /></option>
+    <option value="img2"><img src="/img/1-2.png" width="50px" alt="Image 2" /></option>
+    <option value="img3"><img src="/img/1-3.png" width="50px" alt="Image 3" /></option>
+  </select>
+  
+  <br><br>
+
+  <label for="dropdown2">Gain Muscle</label>
+  <select id="dropdown2">
+    <option value="img1"><img src="/img/2-1.png" width="50px" alt="Image 4" /></option>
+    <option value="img2"><img src="/img/2-2.png" width="50px" alt="Image 5" /></option>
+    <option value="img3"><img src="/img/2-3.png" width="50px" alt="Image 6" /></option>
+  </select>
+  
+  <br><br>
+
+  <label for="dropdown3">Maintain Energy</label>
+  <select id="dropdown3">
+    <option value="img1"><img src="/img/3-1.png" width="50px" alt="Image 7" /></option>
+    <option value="img2"><img src="/img/3-2.png" width="50px" alt="Image 8" /></option>
+    <option value="img3"><img src="/img/3-3.png" width="50px" alt="Image 9" /></option>
+  </select>
+</div>
+
 
 *** TARGET LOCK: Personalized Health Tracker ***
 
@@ -127,7 +154,7 @@ We would like to express our sincere gratitude to our CS 211 instructor, **💗M
     </td>
     <td align="center">
       <a href="https://www.facebook.com/danielibea.ilagan">
-        <img src="/img/daniel" width="100px;" alt="Ibea, Daniel Profile Image"/>
+        <img src="/img/daniel.png" width="100px;" alt="Ibea, Daniel Profile Image"/>
       </a>
       <br />
       <sub><b>Ibea, Daniel</b></sub>

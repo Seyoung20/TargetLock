@@ -57,15 +57,15 @@ The system is designed with several key classes to manage functionality and data
 
 ---
 
-## **▶️ HOW TO RUN THE PROGRAM** 🚀
+## **▶️ HOW TO RUN THE PROGRAM**
 
 This is a console-based application requiring a Java environment.
 
-1.  **Select Goal:** First, the user selects their ** desired health goal**.
+1.  **Select Goal:** First, the user selects their **desired health goal**.
 2.  **Select Food:** After choosing a goal, the system displays food categories, and the user selects a specific item.
-3.  **Custom Food Option:** If the food is not listed, they can use the **⌨️ Custom Food** option, manually entering the food name and its nutritional values.
-4.  **Analysis and Recommendations:** Once submitted, the system **🔬 analyzes** the input and informs the user about the food’s overall healthiness, its safety level, and personalized recommendations on whether it ** supports or goes against** their selected goal. It also suggests ** healthier options**.
-5.  **Motivation:** The ** streak tracker** is included to motivate consistency, encouraging users to regularly check their food choices and maintain a long-term healthy lifestyle.
+3.  **Custom Food Option:** If the food is not listed, they can use the **Custom Food** option, manually entering the food name and its nutritional values.
+4.  **Analysis and Recommendations:** Once submitted, the system **analyzes** the input and informs the user about the food’s overall healthiness, its safety level, and personalized recommendations on whether it **supports or goes against** their selected goal. It also suggests **healthier options**.
+5.  **Motivation:** The **streak tracker** is included to motivate consistency, encouraging users to regularly check their food choices and maintain a long-term healthy lifestyle.
 
 ---
 

@@ -90,7 +90,7 @@ We would like to express our sincere gratitude to our CS 211 instructor, **Ms. C
   <tr>
     <td align="center">
       <a href="[facebook url for Alea, Mariane]">
-        <img src="https://github.com/Seyoung20.png" width="100px;" alt="Alea, Mariane GitHub Profile Image"/>
+        <img src="/img/mayan" width="100px;" alt="Alea, Mariane GitHub Profile Image"/>
       </a>
       <br />
       <sub><b>Alea, Mariane</b></sub>
@@ -106,7 +106,7 @@ We would like to express our sincere gratitude to our CS 211 instructor, **Ms. C
     </td>
     <td align="center">
       <a href="https://www.facebook.com/justinjake.baliwag">
-        <img src="/img/p2.png" width="100px;" alt="Baliwag, Justin Jake Profile Image"/>
+        <img src="/img/justin.png" width="100px;" alt="Baliwag, Justin Jake Profile Image"/>
       </a>
       <br />
       <sub><b>Baliwag, Justin Jake</b></sub>
@@ -122,7 +122,7 @@ We would like to express our sincere gratitude to our CS 211 instructor, **Ms. C
     </td>
     <td align="center">
       <a href="[facebook url for Ibea, Daniel]">
-        <img src="/img/p4.png" width="100px;" alt="Ibea, Daniel Profile Image"/>
+        <img src="/img/daniel" width="100px;" alt="Ibea, Daniel Profile Image"/>
       </a>
       <br />
       <sub><b>Ibea, Daniel</b></sub>
@@ -138,7 +138,7 @@ We would like to express our sincere gratitude to our CS 211 instructor, **Ms. C
     </td>
     <td align="center">
       <a href="[facebook url for Pabito, Sam Angelo]">
-        <img src="/img/p1.png" width="100px;" alt="Pabito, Sam Angelo Profile Image"/>
+        <img src="/img/sam.png" width="100px;" alt="Pabito, Sam Angelo Profile Image"/>
       </a>
       <br />
       <sub><b>Pabito, Sam Angelo</b></sub>

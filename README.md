@@ -70,32 +70,32 @@ This is a console-based application requiring a Java environment.
 ---
 
 ## **🖥️ SAMPLE OUTPUT** 📊
-<div align="center">
-  <label for="dropdown1">Lose Weight</label>
-  <select id="dropdown1">
-    <option value="img1"><img src="/img/1-1.png" width="50px" alt="Image 1" /></option>
-    <option value="img2"><img src="/img/1-2.png" width="50px" alt="Image 2" /></option>
-    <option value="img3"><img src="/img/1-3.png" width="50px" alt="Image 3" /></option>
-  </select>
-  
-  <br><br>
+<details>
+  <summary>Character Creation</summary>
+<img src="Images/CharacterCreation.png" alt="Char Creation" width="50%">
+</details>
 
-  <label for="dropdown2">Gain Muscle</label>
-  <select id="dropdown2">
-    <option value="img1"><img src="/img/2-1.png" width="50px" alt="Image 4" /></option>
-    <option value="img2"><img src="/img/2-2.png" width="50px" alt="Image 5" /></option>
-    <option value="img3"><img src="/img/2-3.png" width="50px" alt="Image 6" /></option>
-  </select>
-  
-  <br><br>
+<details>
+  <summary>Stats Upgrade</summary>
+<img src="Images/StatsUpgrade.png" alt="Stats Up" width="50%">
+</details>
 
-  <label for="dropdown3">Maintain Energy</label>
-  <select id="dropdown3">
-    <option value="img1"><img src="/img/3-1.png" width="50px" alt="Image 7" /></option>
-    <option value="img2"><img src="/img/3-2.png" width="50px" alt="Image 8" /></option>
-    <option value="img3"><img src="/img/3-3.png" width="50px" alt="Image 9" /></option>
-  </select>
-</div>
+<details>
+  <summary>Stage Clear</summary>
+<img src="Images/Dungeons%20Boss%20Clear.png" alt="Boss Clear" width="50%">
+</details>
+
+<details>
+  <summary>Boss Special Ability</summary>
+<img src="Images/Astaroth.png" alt="Astaroth" width="50%">
+</details>
+
+<details>
+  <summary>Ending</summary>
+<img src="img/3-1.png" alt="Ending" width="50%">
+<img src="img/3-2.png" alt="Ending" width="50%">
+<img src="img/3-3.png" alt="Ending" width="50%">
+</details>
 
 ---
 

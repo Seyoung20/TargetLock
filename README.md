@@ -71,27 +71,21 @@ This is a console-based application requiring a Java environment.
 
 ## **🖥️ SAMPLE OUTPUT** 📊
 <details>
-  <summary>Character Creation</summary>
-<img src="Images/CharacterCreation.png" alt="Char Creation" width="50%">
+  <summary>Lose Weight</summary>
+<img src="img/1-1.png" alt="Char Creation" width="50%">
+<img src="img/1-2.png" alt="Char Creation" width="50%">
+<img src="img/1-3.png" alt="Char Creation" width="50%">
 </details>
 
 <details>
-  <summary>Stats Upgrade</summary>
-<img src="Images/StatsUpgrade.png" alt="Stats Up" width="50%">
+  <summary>Gain Muscle</summary>
+<img src="img/2-1.png" alt="Stats Up" width="50%">
+<img src="img/2-2.png" alt="Stats Up" width="50%">
+<img src="img/2-3.png" alt="Stats Up" width="50%">
 </details>
 
 <details>
-  <summary>Stage Clear</summary>
-<img src="Images/Dungeons%20Boss%20Clear.png" alt="Boss Clear" width="50%">
-</details>
-
-<details>
-  <summary>Boss Special Ability</summary>
-<img src="Images/Astaroth.png" alt="Astaroth" width="50%">
-</details>
-
-<details>
-  <summary>Ending</summary>
+  <summary>Maintain Energy</summary>
 <img src="img/3-1.png" alt="Ending" width="50%">
 <img src="img/3-2.png" alt="Ending" width="50%">
 <img src="img/3-3.png" alt="Ending" width="50%">

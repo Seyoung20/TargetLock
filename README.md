@@ -1,4 +1,4 @@
-<div align="center">
+<img width="760" height="792" alt="image" src="https://github.com/user-attachments/assets/824a0573-d9d1-476b-83c0-66380f99ab84" /><div align="center">
 
 # 🎯 **TARGET LOCK** 🎯
 
@@ -95,14 +95,14 @@ This is a console-based application requiring a Java environment.
 
 ## **🧑🏻‍🤝‍🧑🏻AUTHOR AND ACKNOWLEDGEMENT** 
 
-**Gratitude to Our Instructor**
+**✨Gratitude to Our Instructor**
 
 <p align="center">
   <img src="img/grace.png" width="200px" alt="Grace" style="border-radius: 100px;" />
 </p>
 
 
-We would like to express our sincere gratitude to our CS 211 instructor, **💗Ms. Christiana Grace Alib**, for her invaluable mentorship and guidance. Her expertise in Object-Oriented Programming principles was crucial to our effective application of these concepts, leading to the successful development of our system, **TargetLock**.
+We would like to express our sincere gratitude to our CS 211 instructor, **💗`Ms. Christiana Grace Alib`**, for her invaluable mentorship and guidance. Her expertise in Object-Oriented Programming principles was crucial to our effective application of these concepts, leading to the successful development of our system, **TargetLock**.
 
 ---
 

@@ -1,4 +1,4 @@
-<img width="760" height="792" alt="image" src="https://github.com/user-attachments/assets/824a0573-d9d1-476b-83c0-66380f99ab84" /><div align="center">
+<div align="center">
 
 # 🎯 **TARGET LOCK** 🎯
 
